@@ -1,0 +1,10 @@
+{
+  "amiiboNameLabel": "Nazwa Amiibo",
+  "loadingMessage": "Ładowanie...",
+  "errorMessage": "Błąd podczas pobierania danych",
+  "pageTitle": "Dane Amiibo",
+  "languageSelector": "Język",
+  "english": "Angielski",
+  "polish": "Polski",
+  "czech": "Czeski"
+}

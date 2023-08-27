@@ -1,0 +1,10 @@
+{
+  "amiiboNameLabel": "Amiibo Name",
+  "loadingMessage": "Loading...",
+  "errorMessage": "Error fetching data",
+  "pageTitle": "Amiibo Data",
+  "languageSelector": "Language",
+  "english": "English",
+  "polish": "Polish",
+  "czech": "Czech"
+}

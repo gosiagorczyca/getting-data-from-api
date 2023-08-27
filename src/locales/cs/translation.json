@@ -1,0 +1,10 @@
+{
+  "amiiboNameLabel": "Název Amiibo",
+  "loadingMessage": "Načítání...",
+  "errorMessage": "Chyba při načítání dat",
+  "pageTitle": "Data Amiibo",
+  "languageSelector": "Jazyk",
+  "english": "Angličtina",
+  "polish": "Polština",
+  "czech": "Čeština"
+}

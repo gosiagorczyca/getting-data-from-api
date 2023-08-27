@@ -1,0 +1,15 @@
+{
+  "amiibo": [
+    {
+      "amiiboSeries": "Super Mario",
+      "character": "Mario",
+      "gameSeries": "Super Mario",
+      "head": "00000000",
+      "image": "https://example.com/mario.png",
+      "name": "Mario",
+      "release": {},
+      "tail": "00000001",
+      "type": "Figure"
+    }
+  ]
+}
